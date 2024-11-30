@@ -137,11 +137,12 @@ Create and submit a detailed RFQ.
 
 ## Contributions:
 
-I wast the top contributor to this project. Handling both frontend and backend.
+I was the top contributor to this project. Handling both frontend and backend. The project is still under development.
 
 - Commits: 100+
 - Lines of Code: 10000+
-  ![alt text](image-17.png)
+
+![alt text](image-17.png)
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
